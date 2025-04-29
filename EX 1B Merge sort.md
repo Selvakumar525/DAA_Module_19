@@ -11,9 +11,9 @@ To write a python program to sort the first half of the list using merge sort.
 5. Return the fully sorted array.   
 
 ## Program:
-Developed by: SHAKTHI KUMAR S
+Developed by: Selva Kumar A
 
-Register Number: 212222110043
+Register Number: 212222110042
 ```python
 def merge_sort(inp_arr):
     size = len(inp_arr)
