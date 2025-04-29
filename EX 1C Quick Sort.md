@@ -12,9 +12,9 @@ To write a python program to implement quick sort using tha last element as pivo
    
 
 ## Program:
-Developed by: SHAKTHI KUMAR S
+Developed by: SELVA KUMAR A
 
-Register Number: 212222110043
+Register Number: 212222110042
 ```python
 def partition(array, low, high):
     pivot = array[low]
