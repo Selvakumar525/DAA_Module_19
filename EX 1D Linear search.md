@@ -12,9 +12,9 @@ To write a python program for a search function with parameter list name and the
 5. End the function.  
 
 ## Program:
-Developed by: SHAKTHI KUMAR S
+Developed by: SELVA KUMAR A
 
-Register Number: 212222110043
+Register Number: 212222110042
 ```python
     for value in tuple1:
         if(value==x):
