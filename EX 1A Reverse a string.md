@@ -11,9 +11,9 @@ To write a program to create a recursive function to reverse a string.
 5. Return the final reversed string.
 
 ## Program:
-Developed by: SHAKTHI KUMAR S
+Developed by: Selva Kumar A
 
-Register Number: 212222110043
+Register Number: 212222110042
 ```python
 
 def reverse_string(s):
